@@ -1,8 +1,7 @@
 ---
 title: My page
-my_variable: true
 ---
-# test
+# test 2
 
 This is a simple page
 
