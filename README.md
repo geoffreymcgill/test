@@ -1,7 +1,4 @@
----
-title: My page
----
-# test 2
+# test 3
 
 This is a simple page
 
